@@ -1,0 +1,5 @@
+export CLUSTER_NAME=boningx-cc-spark-cluster
+export AZURE_STORAGE_ACCOUNT="saboningxhdinsight"
+export HTTP_CREDENTIAL=Http55118!
+export SSH_CREDENTIALS=Ssh551188!
+
